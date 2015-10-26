@@ -41,6 +41,6 @@
  - Doctrine (ORM)
 
 ## Manuel documentation
- [Symfony Book](https://symfony.com/doc/current/index.html)
- [Symfony Best Pratice](https://symfony.com/doc/current/best_practices/index.html)
- [Symfony Quick Tour](http://symfony.com/doc/current/quick_tour/the_big_picture.html)
+ - [Symfony Book](https://symfony.com/doc/current/index.html)
+ - [Symfony Best Pratice](https://symfony.com/doc/current/best_practices/index.html)
+ - [Symfony Quick Tour](http://symfony.com/doc/current/quick_tour/the_big_picture.html)
