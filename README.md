@@ -25,7 +25,7 @@
  - [GitHub Symfony2](https://github.com/symfony/symfony)
 
 
-## Différentes installation
+## Différentes installations
  - Symfony Installer
  - Composer
  - Zip file (Non recommandé)
